@@ -1,0 +1,6 @@
+C:\xampp\htdocs\helloWord\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\xampp\htdocs\helloWord\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\xampp\htdocs\helloWord\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\xampp\htdocs\helloWord\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\helloWord\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\xampp\htdocs\helloWord\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
